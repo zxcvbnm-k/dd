@@ -3,7 +3,7 @@
 <script type="text/javascript">   
 function password() {   
 var testV = 1;   
-var pass1 = prompt('guess one guess:','');   
+var pass1 = prompt('guess 一 guess:','');   
 while (testV < 1000) {   
 if (!pass1)    
 history.go(-1);   
