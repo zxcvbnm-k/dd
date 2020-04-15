@@ -25,6 +25,5 @@ document.write(password());
 </head>
 
 <body>
-<p style="color:blue; font-size:40;">You're so bangbang!!!</p>
 </boody>
 </html>
