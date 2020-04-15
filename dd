@@ -16,7 +16,7 @@ testV+=1;
 var pass1 =    
 prompt('again！:(','');   
 }   
-if (pass1!="password" & testV ==3)    
+if (pass1!="password" & testV ==1000)    
 history.go(-1);   
 return " ";   
 }    
